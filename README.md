@@ -62,6 +62,28 @@ This project answers the following business questions using SQL:
 - Identified Pretoria as the highest-performing city.
 - Analyzed customer spending patterns using SQL.
 
+  ## Tools Used
+
+- MySQL
+- MySQL Workbench
+- GitHub
+
+---
+
+## Author
+
+Lerato Lehoko
+
+Bachelor of Science (Biochemistry & Statistics)
+
+Aspiring Data Analyst passionate about SQL, Business Intelligence and Data Analytics.
+
+LinkedIn:
+https://www.linkedin.com/in/lerato-lehoko-b75b68372
+
+GitHub:
+https://github.com/leratolehoko
+
 ---
 
 ## About Me
